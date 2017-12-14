@@ -10,4 +10,4 @@ const testFn = (fn, testArgs) => {
   });
 };
 
-module.exports = { testFn };
+module.exports = testFn;
