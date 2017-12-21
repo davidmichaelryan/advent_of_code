@@ -1,5 +1,3 @@
-/* eslint-disable no-tabs */
-
 const testFn = require('./test_fn');
 
 let testInput =
